@@ -12,8 +12,6 @@
 
   <a href="https://github.com/ialexanderbrito/dev-radar/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/ialexanderbrito/dev-radar.svg"></a>
-    
-   <img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/ialexanderbrito/dev-radar?label=blue">
  
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-red"></a>
