@@ -43,7 +43,7 @@ Extras:
 
 ### 📱 App
 
-[Breve]()
+[Download para Android](https://github.com/ialexanderbrito/dev-radar/releases/tag/1.0.0)
 
 ### 💻 Projeto
 
@@ -66,6 +66,7 @@ A semana foi ministrada pelo [Diego Fernandes](https://github.com/diego3g)
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
+
 ### 📱 Social
 
 Me acompanhe nas minhas redes sociais.
@@ -73,7 +74,10 @@ Me acompanhe nas minhas redes sociais.
 <p align="center">
 
    <a href="https://github.com/ialexanderbrito" target="_blank" >
-    <img alt="Github" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github"></a> 
+    <img alt="Github" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github"></a>
+    
+   <a href="https://twitter.com/ialexanderbrito" target="_blank" > 
+     <img alt="Github" src="https://img.shields.io/badge/Twitter--%23F8952D?style=social&logo=twitter"></a> 
   
   <a href="https://instagram.com/ialexanderbrito" target="_blank" >
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram--%23F8952D?style=social&logo=instagram"></a> 
