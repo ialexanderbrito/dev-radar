@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://dev-radar-oficial.herokuapp.com',
+  baseURL: 'https://devradar-api.ialexanderbrito.dev',
 });
 
 export default api;
